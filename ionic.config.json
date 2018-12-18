@@ -1,0 +1,13 @@
+{
+  "name": "AulaIonic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "proxies": [
+    {
+      "path": "/",
+      "proxyUrl": "https://storage.googleapis.com"
+    }
+  ]
+}
